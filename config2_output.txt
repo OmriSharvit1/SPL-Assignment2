@@ -1,0 +1,617 @@
+
+Turn 1
+Deck: 3S 2D 12H JC 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 12C 13D JS QH KC
+DonaldDuck: 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD
+Goofy: 2C 5S 6D 8C 13C 13S 15D
+MikeyMouse asked Goofy for the value 3
+
+Turn 2
+Deck: 2D 12H JC 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 12C 13D JS QH KC
+DonaldDuck: 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD
+Goofy: 2C 5S 6D 8C 13C 13S 15D
+DonaldDuck asked MikeyMouse for the value 4
+
+Turn 3
+Deck: 12H JC 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 12C 13D JS QH KC
+DonaldDuck: 2D 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD
+Goofy: 2C 5S 6D 8C 13C 13S 15D
+MinnieMouse asked MikeyMouse for the value Q
+
+Turn 4
+Deck: JC 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 12C 12H 13D JS KC
+DonaldDuck: 2D 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD QH
+Goofy: 2C 5S 6D 8C 13C 13S 15D
+Goofy asked MikeyMouse for the value 2
+
+Turn 5
+Deck: 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 12C 12H 13D JS KC
+DonaldDuck: 2D 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD QH
+Goofy: 2C 5S 6D 8C 13C 13S 15D JC
+MikeyMouse asked Goofy for the value 3
+
+Turn 6
+Deck: 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 4H 12C 12H 13D JS KC
+DonaldDuck: 2D 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD QH
+Goofy: 2C 5S 6D 8C 13C 13S 15D JC
+DonaldDuck asked MikeyMouse for the value 2
+
+Turn 7
+Deck: 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 4H 12C 12H 13D JS KC
+DonaldDuck: 2D 3C 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD QH
+Goofy: 2C 5S 6D 8C 13C 13S 15D JC
+MinnieMouse asked DonaldDuck for the value Q
+
+Turn 8
+Deck: 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 4H 12C 12H 13D JS KC
+DonaldDuck: 2D 3C 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15C 15S QD QH
+Goofy: 2C 5S 6D 8C 13C 13S 15D JC
+Goofy asked DonaldDuck for the value 2
+
+Turn 9
+Deck: 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 4H 12C 12H 13D JS KC
+DonaldDuck: 3C 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 5S 6D 8C 13C 13S 15D JC
+MikeyMouse asked Goofy for the value 3
+
+Turn 10
+Deck: 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 3S 4H 11S 12C 12H 13D JS KC
+DonaldDuck: 3C 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 5S 6D 8C 13C 13S 15D JC
+DonaldDuck asked MikeyMouse for the value 3
+
+Turn 11
+Deck: 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 4H 7D 10C 11S 12C 12H 13D JS QS KC
+DonaldDuck: 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 5S 6D 8C 13C 13S 15D JC
+MinnieMouse asked Goofy for the value Q
+
+Turn 12
+Deck: 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 4H 7D 10C 11S 12C 12H 13D JS QS KC
+DonaldDuck: 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 2S 7C 10D 11C 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 5S 6D 8C 13C 13S 15D JC
+Goofy asked MinnieMouse for the value 2
+
+Turn 13
+Deck: 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 4H 7D 10C 11S 12C 12H 13D JS QS KC
+DonaldDuck: 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 2S 5S 6D 8C 13C 13S 15D JC
+MikeyMouse asked Goofy for the value 12
+
+Turn 14
+Deck: 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 4H 7D 8H 10C 11S 12C 12H 13D JS QS KC
+DonaldDuck: 4D 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 2S 5S 6D 8C 13C 13S 15D JC
+DonaldDuck asked MikeyMouse for the value 4
+
+Turn 15
+Deck: 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5H 7D 8H 10C 11S 12C 12H 13D JS QS KC
+DonaldDuck: 4D 4H 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH
+Goofy: 2C 2D 2S 5S 6D 8C 13C 13S 15D JC
+MinnieMouse asked MikeyMouse for the value Q
+
+Turn 16
+Deck: 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5H 7D 8H 9C 10C 11S 12C 12H 13D JS KC
+DonaldDuck: 4D 4H 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 5S 6D 8C 13C 13S 15D JC
+Goofy asked MikeyMouse for the value 2
+
+Turn 17
+Deck: 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5H 7D 8H 9C 10C 11S 12C 12H 13D JS KC
+DonaldDuck: 4D 4H 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 15D JC
+MikeyMouse asked Goofy for the value 12
+
+Turn 18
+Deck: KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 8H 9C 10C 11S 12C 12H 13D JS KC
+DonaldDuck: 4D 4H 8D 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 15D JC
+DonaldDuck asked MikeyMouse for the value 8
+
+Turn 19
+Deck: 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 9C 10C 11S 12C 12H 13D JS KC KH
+DonaldDuck: 4D 4H 8D 8H 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 15D JC
+MinnieMouse asked DonaldDuck for the value Q
+
+Turn 20
+Deck: 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 9C 10C 11S 12C 12H 13D JS KC KH
+DonaldDuck: 4D 4H 8D 8H 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 15D JC
+Goofy asked DonaldDuck for the value 2
+
+Turn 21
+Deck: QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 9C 10C 11S 12C 12H 13D JS KC KH
+DonaldDuck: 4D 4H 8D 8H 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14S 15D JC
+MikeyMouse asked Goofy for the value K
+
+Turn 22
+Deck: 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 9C 10C 11S 12C 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 8D 8H 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14S 15D JC
+DonaldDuck asked MikeyMouse for the value 9
+
+Turn 23
+Deck: 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 10C 11S 12C 12D 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14S 15D JC
+MinnieMouse asked Goofy for the value Q
+
+Turn 24
+Deck: 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 10C 11S 12C 12D 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14S 15D JC
+Goofy asked MinnieMouse for the value 2
+
+Turn 25
+Deck: 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 7D 10C 11S 12C 12D 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC
+MikeyMouse asked Goofy for the value 12
+
+Turn 26
+Deck: 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 6S 7D 10C 11S 12C 12D 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC
+DonaldDuck asked MikeyMouse for the value 14
+
+Turn 27
+Deck: 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 6S 7D 10C 11S 12C 12D 12H 13D JS QC KC KH
+DonaldDuck: 4D 4H 5D 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S QD QH QS
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC
+MinnieMouse asked MikeyMouse for the value Q
+
+Turn 28
+Deck: KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 6S 7D 10C 10S 11S 12C 12D 12H 13D JS KC KH
+DonaldDuck: 4D 4H 5D 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC
+Goofy asked MikeyMouse for the value 2
+
+Turn 29
+Deck: 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 6S 7D 10C 10S 11S 12C 12D 12H 13D JS KC KH
+DonaldDuck: 4D 4H 5D 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC KD
+MikeyMouse asked Goofy for the value 12
+
+Turn 30
+Deck: AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 5C 5H 6S 7D 7H 10C 10S 11S 12C 12D 12H 13D JS KC KH
+DonaldDuck: 4D 4H 5D 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC KD
+DonaldDuck asked MikeyMouse for the value 5
+
+Turn 31
+Deck: 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 5C 5D 5H 8D 8H 9C 9D 14C 15H JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC KD
+MinnieMouse asked DonaldDuck for the value 15
+
+Turn 32
+Deck: JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15H 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC KD
+Goofy asked DonaldDuck for the value 2
+
+Turn 33
+Deck: 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15H 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC JH KD
+MikeyMouse asked Goofy for the value 12
+
+Turn 34
+Deck: 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 2H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15H 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC JH KD
+DonaldDuck asked MikeyMouse for the value 14
+
+Turn 35
+Deck: 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 2H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H 15C 15H 15S
+Goofy: 2C 2D 2S 4C 5S 6D 8C 13C 13S 14H 14S 15D JC JH KD
+MinnieMouse asked Goofy for the value 15
+
+Turn 36
+Deck: AS 6H AC 8S 12S 14D
+MikeyMouse: 2H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H
+Goofy: 2C 2D 2S 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD
+Goofy asked MinnieMouse for the value 2
+
+Turn 37
+Deck: 6H AC 8S 12S 14D
+MikeyMouse: 2H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H
+Goofy: 2C 2D 2S 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MikeyMouse asked Goofy for the value 12
+
+Turn 38
+Deck: AC 8S 12S 14D
+MikeyMouse: 2H 6H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H
+Goofy: 2C 2D 2S 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+DonaldDuck asked MikeyMouse for the value 14
+
+Turn 39
+Deck: 8S 12S 14D
+MikeyMouse: 2H 6H 6S 7D 7H 7S 10C 10S 11S 12C 12D 12H 13D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13H
+Goofy: 2C 2D 2S 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MinnieMouse asked MikeyMouse for the value 13
+
+Turn 40
+Deck: 12S 14D
+MikeyMouse: 2H 6H 6S 7D 7H 7S 8S 10C 10S 11S 12C 12D 12H JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 2C 2D 2S 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+Goofy asked MikeyMouse for the value 2
+
+Turn 41
+Deck: 14D
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 42
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S 14D JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+DonaldDuck asked MikeyMouse for the value 14
+
+Turn 43
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MinnieMouse asked DonaldDuck for the value 13
+
+Turn 44
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S JS KC KH AH
+DonaldDuck: 4D 4H 4S 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 4C 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+Goofy asked DonaldDuck for the value 4
+
+Turn 45
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S JS KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 46
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S JS KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+DonaldDuck asked MikeyMouse for the value J
+
+Turn 47
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H 13D 13H
+Goofy: 5S 6D 8C 9H 13C 13S 14H 14S JC JH KD AS
+MinnieMouse asked Goofy for the value 13
+
+Turn 48
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+Goofy asked MinnieMouse for the value 5
+
+Turn 49
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 50
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S KC KH AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+DonaldDuck asked MikeyMouse for the value K
+
+Turn 51
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S 11S AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H 11C 11D 11H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+MinnieMouse asked MikeyMouse for the value 11
+
+Turn 52
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+Goofy asked MikeyMouse for the value 5
+
+Turn 53
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 54
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 5C 5D 5H 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 5S 6D 8C 9H 14H 14S JC JH KD AS
+DonaldDuck asked Goofy for the value 8
+
+Turn 55
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 5C 5D 5H 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 5S 6D 9H 14H 14S JC JH KD AS
+MinnieMouse asked DonaldDuck for the value 10
+
+Turn 56
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 5C 5D 5H 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 5S 6D 9H 14H 14S JC JH KD AS
+Goofy asked DonaldDuck for the value 5
+
+Turn 57
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 6D 9H 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 58
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 6D 9H 14H 14S JC JH KD AS
+DonaldDuck asked MikeyMouse for the value 14
+
+Turn 59
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 6D 9H 14H 14S JC JH KD AS
+MinnieMouse asked Goofy for the value 10
+
+Turn 60
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 6C 7C 10D 10H
+Goofy: 6D 9H 14H 14S JC JH KD AS
+Goofy asked MinnieMouse for the value 6
+
+Turn 61
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 7C 10D 10H
+Goofy: 6C 6D 9H 14H 14S JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 62
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S 14C 14D JD JS KC KH KS AC AD
+MinnieMouse: 7C 10D 10H
+Goofy: 6C 6D 9H 14H 14S JC JH KD AS
+DonaldDuck asked Goofy for the value 14
+
+Turn 63
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S 10C 10S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S JD JS KC KH KS AC AD
+MinnieMouse: 7C 10D 10H
+Goofy: 6C 6D 9H JC JH KD AS
+MinnieMouse asked MikeyMouse for the value 10
+
+Turn 64
+Deck: 
+MikeyMouse: 6H 6S 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S JD JS KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: 6C 6D 9H JC JH KD AS
+Goofy asked MikeyMouse for the value 6
+
+Turn 65
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S JD JS KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: 9H JC JH KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 66
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S JD JS KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: 9H JC JH KD AS
+DonaldDuck asked Goofy for the value J
+
+Turn 67
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: 9H KD AS
+MinnieMouse asked DonaldDuck for the value 7
+
+Turn 68
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H 9C 9D 9S KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: 9H KD AS
+Goofy asked DonaldDuck for the value 9
+
+Turn 69
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 70
+Deck: 
+MikeyMouse: 7D 7H 7S 8S AH
+DonaldDuck: 8C 8D 8H KC KH KS AC AD
+MinnieMouse: 7C
+Goofy: KD AS
+DonaldDuck asked MikeyMouse for the value A
+
+Turn 71
+Deck: 
+MikeyMouse: 7D 7H 7S 8S
+DonaldDuck: 8C 8D 8H KC KH KS AC AD AH
+MinnieMouse: 7C
+Goofy: KD AS
+MinnieMouse asked Goofy for the value 7
+
+Turn 72
+Deck: 
+MikeyMouse: 7D 7H 7S 8S
+DonaldDuck: 8C 8D 8H KC KH KS AC AD AH
+MinnieMouse: 7C
+Goofy: KD AS
+Goofy asked MinnieMouse for the value K
+
+Turn 73
+Deck: 
+MikeyMouse: 7D 7H 7S 8S
+DonaldDuck: 8C 8D 8H KC KH KS AC AD AH
+MinnieMouse: 7C
+Goofy: KD AS
+MikeyMouse asked DonaldDuck for the value 7
+
+Turn 74
+Deck: 
+MikeyMouse: 7D 7H 7S 8S
+DonaldDuck: 8C 8D 8H KC KH KS AC AD AH
+MinnieMouse: 7C
+Goofy: KD AS
+DonaldDuck asked MikeyMouse for the value 8
+
+Turn 75
+Deck: 
+MikeyMouse: 7D 7H 7S
+DonaldDuck: KC KH KS AC AD AH
+MinnieMouse: 7C
+Goofy: KD AS
+MinnieMouse asked MikeyMouse for the value 7
+
+***** The winners are: MikeyMouse and MinnieMouse *****
+Number of turns: 75
+----------
+Initial State:
+Deck: 3S 2D 12H JC 4H 3C 15C 15H 11S 7D 10C QS 11C 6C 8H 5H 9C 4C 5C KH 13H 14S QC 12D 10H 14H 6S 5D 10S KD 7H AH 7S 9S JH 2H 4S 9H AS 6H AC 8S 12S 14D
+MikeyMouse: 3D 3H 12C 13D JS QH KC
+DonaldDuck: 4D 8D 9D 14C JD KS AD
+MinnieMouse: 2S 7C 10D 11D 11H 15S QD
+Goofy: 2C 5S 6D 8C 13C 13S 15D
+----------
+Final State:
+Deck: 
+MikeyMouse: 
+DonaldDuck: KC KH KS AC AD AH
+MinnieMouse: 
+Goofy: KD AS

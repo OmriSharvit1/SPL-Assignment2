@@ -1,0 +1,13 @@
+#Verbal ON
+1
+
+#Highest numeric value
+3
+
+#Deck
+KC QH 3D AH JH 2C 3S KS AS JS 3C KH AD QC JD QS 3H KD AC JC 2D 2H 2S QD 
+
+#Players
+Alice 1
+Bob 2
+Charlie 3

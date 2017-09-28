@@ -1,0 +1,8 @@
+Activation instructions:
+
+Using the terminal:
+1. Navigate to folder
+2. "make" 
+3. "./bin/reviiot config1.txt" - choose a configuration file to run, and compare the out put with config1_output.txt. 
+
+Game rules explained at assignment1-spl171.pdf
