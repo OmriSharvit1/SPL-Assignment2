@@ -1,0 +1,10 @@
+Activation instructions:
+
+1. Run MergeSort.java - in order to test the WorkStealingThreadPool, which runs a mergeSort of array of size 10000.
+
+2. Run Simulator.java - in order to test the PhoneFactory, with this configuration file: simulation[2].json
+  
+
+Game rules explained at assignment1-spl172.pdf 
+
+

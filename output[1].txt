@@ -1,0 +1,545 @@
+ProductName: yphone30  Product Id = 201108559024
+PartsList {
+ProductName: 5'-screen  Product Id = 182487722899
+PartsList {
+ProductName: glass  Product Id = 50123452
+PartsList {
+}
+ProductName: touch-controller  Product Id = 182387475971
+PartsList {
+ProductName: electrical-things  Product Id = 50123453
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 50123453
+PartsList {
+ProductName: round-stuff  Product Id = 50123452
+PartsList {
+}
+ProductName: electrical-things  Product Id = 50123452
+PartsList {
+}
+}
+}
+
+ProductName: yphone30  Product Id = 31848003653
+PartsList {
+ProductName: 5'-screen  Product Id = 28932870238
+PartsList {
+ProductName: glass  Product Id = 50123453
+PartsList {
+}
+ProductName: touch-controller  Product Id = 28832623321
+PartsList {
+ProductName: electrical-things  Product Id = 50123454
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 50123454
+PartsList {
+ProductName: round-stuff  Product Id = 50123453
+PartsList {
+}
+ProductName: electrical-things  Product Id = 50123453
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro  Product Id = 447324075348
+PartsList {
+ProductName: 6'-screen  Product Id = 162484371203
+PartsList {
+ProductName: glass  Product Id = 50234562
+PartsList {
+}
+ProductName: touch-controller  Product Id = 8243750412
+PartsList {
+ProductName: electrical-things  Product Id = 50234563
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 50234579
+PartsList {
+ProductName: round-stuff  Product Id = 50234562
+PartsList {
+}
+ProductName: electrical-things  Product Id = 50234562
+PartsList {
+}
+}
+ProductName: camera  Product Id = 284739234891
+PartsList {
+ProductName: glass  Product Id = 50234562
+PartsList {
+}
+ProductName: round-stuff  Product Id = 50234562
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro  Product Id = 129396235339
+PartsList {
+ProductName: 6'-screen  Product Id = 112958969030
+PartsList {
+ProductName: glass  Product Id = 50234563
+PartsList {
+}
+ProductName: touch-controller  Product Id = 18757477818
+PartsList {
+ProductName: electrical-things  Product Id = 50234564
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 50234564
+PartsList {
+ProductName: round-stuff  Product Id = 50234563
+PartsList {
+}
+ProductName: electrical-things  Product Id = 50234563
+PartsList {
+}
+}
+ProductName: camera  Product Id = 16336797106
+PartsList {
+ProductName: glass  Product Id = 50234563
+PartsList {
+}
+ProductName: round-stuff  Product Id = 50234563
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro-plus  Product Id = 483303659049
+PartsList {
+ProductName: 10'-screen  Product Id = 502345602
+PartsList {
+ProductName: 5'-screen  Product Id = 124151415893
+PartsList {
+ProductName: glass  Product Id = 502345604
+PartsList {
+}
+ProductName: touch-controller  Product Id = 123146724520
+PartsList {
+ProductName: electrical-things  Product Id = 502345605
+PartsList {
+}
+}
+}
+ProductName: 5'-screen  Product Id = 124151415893
+PartsList {
+ProductName: glass  Product Id = 502345604
+PartsList {
+}
+ProductName: touch-controller  Product Id = 123146724520
+PartsList {
+ProductName: electrical-things  Product Id = 502345605
+PartsList {
+}
+}
+}
+}
+ProductName: round-button  Product Id = 502345604
+PartsList {
+ProductName: round-stuff  Product Id = 502345603
+PartsList {
+}
+ProductName: electrical-things  Product Id = 502345603
+PartsList {
+}
+}
+ProductName: camera  Product Id = 51649298098
+PartsList {
+ProductName: glass  Product Id = 502345603
+PartsList {
+}
+ProductName: round-stuff  Product Id = 502345603
+PartsList {
+}
+}
+ProductName: headphone-jack  Product Id = 26075821849
+PartsList {
+ProductName: round-stuff  Product Id = 502345603
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro-plus  Product Id = 518339257521
+PartsList {
+ProductName: 10'-screen  Product Id = 502345603
+PartsList {
+ProductName: 5'-screen  Product Id = 168279239504
+PartsList {
+ProductName: glass  Product Id = 502345605
+PartsList {
+}
+ProductName: touch-controller  Product Id = 167274548150
+PartsList {
+ProductName: electrical-things  Product Id = 502345606
+PartsList {
+}
+}
+}
+ProductName: 5'-screen  Product Id = 168279239504
+PartsList {
+ProductName: glass  Product Id = 502345605
+PartsList {
+}
+ProductName: touch-controller  Product Id = 167274548150
+PartsList {
+ProductName: electrical-things  Product Id = 502345606
+PartsList {
+}
+}
+}
+}
+ProductName: round-button  Product Id = 502345605
+PartsList {
+ProductName: round-stuff  Product Id = 502345604
+PartsList {
+}
+ProductName: electrical-things  Product Id = 502345604
+PartsList {
+}
+}
+ProductName: camera  Product Id = 90530372911
+PartsList {
+ProductName: glass  Product Id = 502345604
+PartsList {
+}
+ProductName: round-stuff  Product Id = 502345604
+PartsList {
+}
+}
+ProductName: headphone-jack  Product Id = 45516359256
+PartsList {
+ProductName: round-stuff  Product Id = 502345604
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro-plus  Product Id = 583901979556
+PartsList {
+ProductName: 10'-screen  Product Id = 502345604
+PartsList {
+ProductName: 5'-screen  Product Id = 233047545577
+PartsList {
+ProductName: glass  Product Id = 502345606
+PartsList {
+}
+ProductName: touch-controller  Product Id = 232042854195
+PartsList {
+ProductName: electrical-things  Product Id = 502345607
+PartsList {
+}
+}
+}
+ProductName: 5'-screen  Product Id = 233047545577
+PartsList {
+ProductName: glass  Product Id = 502345606
+PartsList {
+}
+ProductName: touch-controller  Product Id = 232042854195
+PartsList {
+ProductName: electrical-things  Product Id = 502345607
+PartsList {
+}
+}
+}
+}
+ProductName: round-button  Product Id = 502345634
+PartsList {
+ProductName: round-stuff  Product Id = 502345605
+PartsList {
+}
+ProductName: electrical-things  Product Id = 502345605
+PartsList {
+}
+}
+ProductName: camera  Product Id = 244786412060
+PartsList {
+ProductName: glass  Product Id = 502345605
+PartsList {
+}
+ProductName: round-stuff  Product Id = 502345605
+PartsList {
+}
+}
+ProductName: headphone-jack  Product Id = 122644378817
+PartsList {
+ProductName: round-stuff  Product Id = 502345605
+PartsList {
+}
+}
+}
+
+ProductName: yphone30  Product Id = 42201345696
+PartsList {
+ProductName: 5'-screen  Product Id = 67864575867
+PartsList {
+ProductName: glass  Product Id = 501623452
+PartsList {
+}
+ProductName: touch-controller  Product Id = 66861328945
+PartsList {
+ProductName: electrical-things  Product Id = 501623453
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 501623473
+PartsList {
+ProductName: round-stuff  Product Id = 501623452
+PartsList {
+}
+ProductName: electrical-things  Product Id = 501623452
+PartsList {
+}
+}
+}
+
+ProductName: yphone30  Product Id = 165805296464
+PartsList {
+ProductName: 5'-screen  Product Id = 95016305968
+PartsList {
+ProductName: glass  Product Id = 501623453
+PartsList {
+}
+ProductName: touch-controller  Product Id = 94013059039
+PartsList {
+ProductName: electrical-things  Product Id = 501623454
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 501623454
+PartsList {
+ProductName: round-stuff  Product Id = 501623453
+PartsList {
+}
+ProductName: electrical-things  Product Id = 501623453
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro  Product Id = 715999114164
+PartsList {
+ProductName: 6'-screen  Product Id = 428787411055
+PartsList {
+ProductName: glass  Product Id = 560234562
+PartsList {
+}
+ProductName: touch-controller  Product Id = 55770789737
+PartsList {
+ProductName: electrical-things  Product Id = 560234563
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 560234567
+PartsList {
+ProductName: round-stuff  Product Id = 560234562
+PartsList {
+}
+ProductName: electrical-things  Product Id = 560234562
+PartsList {
+}
+}
+ProductName: camera  Product Id = 286091233867
+PartsList {
+ProductName: glass  Product Id = 560234562
+PartsList {
+}
+ProductName: round-stuff  Product Id = 560234562
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro  Product Id = 232633447599
+PartsList {
+ProductName: 6'-screen  Product Id = 121652102588
+PartsList {
+ProductName: glass  Product Id = 560234563
+PartsList {
+}
+ProductName: touch-controller  Product Id = 32585295133
+PartsList {
+ProductName: electrical-things  Product Id = 560234564
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 560234564
+PartsList {
+ProductName: round-stuff  Product Id = 560234563
+PartsList {
+}
+ProductName: electrical-things  Product Id = 560234563
+PartsList {
+}
+}
+ProductName: camera  Product Id = 109860875776
+PartsList {
+ProductName: glass  Product Id = 560234563
+PartsList {
+}
+ProductName: round-stuff  Product Id = 560234563
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro  Product Id = 203762728980
+PartsList {
+ProductName: 6'-screen  Product Id = 139152372705
+PartsList {
+ProductName: glass  Product Id = 560234564
+PartsList {
+}
+ProductName: touch-controller  Product Id = 84551840870
+PartsList {
+ProductName: electrical-things  Product Id = 560234565
+PartsList {
+}
+}
+}
+ProductName: round-button  Product Id = 560234565
+PartsList {
+ProductName: round-stuff  Product Id = 560234564
+PartsList {
+}
+ProductName: electrical-things  Product Id = 560234564
+PartsList {
+}
+}
+ProductName: camera  Product Id = 63489886567
+PartsList {
+ProductName: glass  Product Id = 560234564
+PartsList {
+}
+ProductName: round-stuff  Product Id = 560234564
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro-plus  Product Id = 257101573410
+PartsList {
+ProductName: 10'-screen  Product Id = 5602345602
+PartsList {
+ProductName: 5'-screen  Product Id = 129979246699
+PartsList {
+ProductName: glass  Product Id = 5602345604
+PartsList {
+}
+ProductName: touch-controller  Product Id = 118774555408
+PartsList {
+ProductName: electrical-things  Product Id = 5602345605
+PartsList {
+}
+}
+}
+ProductName: 5'-screen  Product Id = 129979246699
+PartsList {
+ProductName: glass  Product Id = 5602345604
+PartsList {
+}
+ProductName: touch-controller  Product Id = 118774555408
+PartsList {
+ProductName: electrical-things  Product Id = 5602345605
+PartsList {
+}
+}
+}
+}
+ProductName: round-button  Product Id = 5602345604
+PartsList {
+ProductName: round-stuff  Product Id = 5602345603
+PartsList {
+}
+ProductName: electrical-things  Product Id = 5602345603
+PartsList {
+}
+}
+ProductName: camera  Product Id = 8851955312
+PartsList {
+ProductName: glass  Product Id = 5602345603
+PartsList {
+}
+ProductName: round-stuff  Product Id = 5602345603
+PartsList {
+}
+}
+ProductName: headphone-jack  Product Id = 7227150456
+PartsList {
+ProductName: round-stuff  Product Id = 5602345603
+PartsList {
+}
+}
+}
+
+ProductName: yphone30-pro-plus  Product Id = 448202067044
+PartsList {
+ProductName: 10'-screen  Product Id = 5602345603
+PartsList {
+ProductName: 5'-screen  Product Id = 125176955536
+PartsList {
+ProductName: glass  Product Id = 5602345605
+PartsList {
+}
+ProductName: touch-controller  Product Id = 113972264239
+PartsList {
+ProductName: electrical-things  Product Id = 5602345606
+PartsList {
+}
+}
+}
+ProductName: 5'-screen  Product Id = 125176955536
+PartsList {
+ProductName: glass  Product Id = 5602345605
+PartsList {
+}
+ProductName: touch-controller  Product Id = 113972264239
+PartsList {
+ProductName: electrical-things  Product Id = 5602345606
+PartsList {
+}
+}
+}
+}
+ProductName: round-button  Product Id = 5602345605
+PartsList {
+ProductName: round-stuff  Product Id = 5602345604
+PartsList {
+}
+ProductName: electrical-things  Product Id = 5602345604
+PartsList {
+}
+}
+ProductName: camera  Product Id = 200980587331
+PartsList {
+ProductName: glass  Product Id = 5602345604
+PartsList {
+}
+ProductName: round-stuff  Product Id = 5602345604
+PartsList {
+}
+}
+ProductName: headphone-jack  Product Id = 103291466466
+PartsList {
+ProductName: round-stuff  Product Id = 5602345604
+PartsList {
+}
+}
+}
+
